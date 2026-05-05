@@ -42,6 +42,7 @@ This improves answer quality, reduces token usage, and keeps responses grounded 
 
 ##  Project Structure
 
+
 transformer-paper-rag/
 ├── data/
 │   └── attention_is_all_you_need.pdf
@@ -55,6 +56,7 @@ transformer-paper-rag/
 ├── agents.py
 ├── main.py
 └── README.md
+
 
 
 Install dependencies:
