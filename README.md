@@ -44,17 +44,29 @@ This improves answer quality, reduces token usage, and keeps responses grounded 
 
 
 transformer-paper-rag/
+
 ├── data/
+
 │   └── attention_is_all_you_need.pdf
+
 ├── store/
+
 │   ├── faiss_index
+
 │   └── chunks
+
 ├── __init__.py
+
 ├── ingest.py
+
 ├── retriever.py
+
 ├── rag_chain.py
+
 ├── agents.py
+
 ├── main.py
+
 └── README.md
 
 
